@@ -1,0 +1,123 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: black;
+
+}
+
+
+.oyun{
+    width: 401px;
+    height: 624px;
+    background-image: url('space.png');
+    overflow: hidden;
+    position: absolute;
+
+
+}
+.oyuncu{
+    width: 130px;
+    height: auto;
+    position: absolute;
+    top: 450px;
+    left: 0px;
+    text-align: center;
+    z-index: 1;
+
+}
+.oyuncu img{
+    width: 80px;
+    height: auto;
+
+    
+
+}
+
+.tas{
+    width: 130px;
+    height: auto;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    text-align: center;
+    
+}
+.tas img{
+
+    width: 150px;
+    height: auto;
+}
+.tasMove{
+    animation: tasMove 1s linear infinite forwards;
+}
+.mermi{
+    width: 100px;
+    height: auto;
+    position: absolute;
+    top: 370px;
+    left: 0;
+    text-align: center;
+    animation: ates 1s linear  1 forwards;
+
+
+
+}
+.mermiImg{
+    width: 50px;
+    height: auto;
+}
+@keyframes ates {
+    0%{
+        top: 370px;
+    }
+    100%{
+        top: -10px;
+    }
+}
+@keyframes tasMove {
+    0%{
+        top: -10px;
+    }
+    100%{
+        top: 470px;
+    }
+    
+}
+#sonuc{
+    height: 200px;
+    width: 400px;
+    background-color: rgb(206, 205, 255);
+    margin: 1rem auto;
+    border: 20px;
+    font-size: 30px;
+    text-align: center;
+    color: rgb(80, 50, 11);
+    display: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+#paun{
+    font-size: 2.2rem;
+    font-weight: bold;
+    color: rgb(17, 29, 29);
+
+}
+#tus{
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    border:none;
+    background-color: black;
+    color: rgb(17, 65, 65);
+    font-size: 25px;
+    margin-top: 10px;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
