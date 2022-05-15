@@ -54,7 +54,7 @@ body{
     height: auto;
 }
 .tasMove{
-    animation: tasMove 1s linear infinite forwards;
+    animation: tasMove 1.5s linear infinite forwards;
 }
 .mermi{
     width: 100px;
