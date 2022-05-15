@@ -1,6 +1,5 @@
 # Uzay_Oyunu
 
-Projeni genel bir özeti.
 It is website game of rocket and rocks in the space where the rocks are designed to destory the earth.The rockets are designed to breakdown thpse  It is mainly 
 
 
