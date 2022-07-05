@@ -5,6 +5,15 @@ It is website game of rocket and rocks in the space where the rocks are designed
 
 Mainly this project or we can say game is online game. So,we can directly play this game by clicking a single link  "http://savingworld.ueuo.com/".
 
+Rocket firing toward stone 
+![fire](https://user-images.githubusercontent.com/76876116/177394476-630ee082-4aa9-45ce-bd64-f4e3d77b946e.jpg)
+
+Game Over
+
+
+![uzayouyunu](https://user-images.githubusercontent.com/76876116/177394605-c9a254f8-6b6b-494e-8144-ef1ad8db3b14.jpg)
+
+
 
 This game is so simple everyone can play this game. To play this game there are simple there instruction:
 1-To move the rocket right you have to press right key from the directional keys.
