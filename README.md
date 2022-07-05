@@ -8,12 +8,11 @@ Mainly this project or we can say game is online game. So,we can directly play t
 Rocket firing toward stone 
 ![fire](https://user-images.githubusercontent.com/76876116/177394476-630ee082-4aa9-45ce-bd64-f4e3d77b946e.jpg)
 
-Game Over
+
 
 
 ![uzayouyunu](https://user-images.githubusercontent.com/76876116/177394605-c9a254f8-6b6b-494e-8144-ef1ad8db3b14.jpg)
-
-
+Game Over
 
 This game is so simple everyone can play this game. To play this game there are simple there instruction:
 1-To move the rocket right you have to press right key from the directional keys.
